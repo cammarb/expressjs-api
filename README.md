@@ -10,7 +10,7 @@
 
 `yarn install`
 
-Create a **.env** to assign the _ATLAS_URI_ variable the value of your connection string and to the _PORT_ variable the port of your choosing.
+Create a **.env** file to assign the _ATLAS_URI_ variable the value of your connection string and to the _PORT_ variable the port of your choosing.
 
 Replace the credentials with your database, username and password in the example code:
 
